@@ -7,7 +7,8 @@ Hi 👋
 ## Steps to contribute in this repositry
 1.  Clone the repository
 2.  Create a text file :- name of file - [your name]  extension - .txt 
-3.  Commit Changes and create a pull request
+3.  In that file enter your name, your roll number and what technology you are learning. (I have attatched a template you can refer to it)
+4.  Commit Changes and create a pull request
        
 
 
